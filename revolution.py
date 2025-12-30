@@ -1,3 +1,5 @@
+# Built with pure intention. For the Splendids. For the makers.
+
 import streamlit as st
 
 # Setup the "Sticky-Screen" UI
