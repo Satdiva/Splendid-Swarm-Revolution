@@ -15,13 +15,29 @@ if st.button("Activate Swarm"):
     row3_col1, row3_col2 = st.columns(2)
 
     with row1_col1:
-        st.info("🎨 **Aura (Vision):** Analyzing the creative spark...")
-        # AI logic for Aura goes here
+        st.info("🎨 **Aura (Vision):**")
+        st.write("Defining the emotional heart and the 'Big Idea' for the Splendids.")
         
     with row1_col2:
-        st.warning("🪨 **Basalt (Skeptic):** Checking for risks...")
-        # AI logic for Basalt goes here
+        st.warning("🪨 **Basalt (Skeptic):**")
+        st.write("Identifying the 'sticky' points and logistical gaps in the plan.")
 
-    # ... and so on for the others ...
+    with row2_col1:
+        st.header("📚 Coda (The Researcher)")
+        st.write("**Protocol Active:**")
+        st.write("1. **Triangulate:** Identifying 3 historical low-budget successes.")
+        st.write("2. **Library Search:** Connecting to Pedagogy of the Oppressed/Social Prescribing.")
+        st.write("3. **The Consult:** Formulating a deep-thinking question for the community.")
 
-    st.success("🎯 **Prime (Consensus):** Here is the final 'Perfection Flow' for the Splendids.")
+    with row2_col2:
+        st.success("🛠️ **Drift (The Scrapper):**")
+        st.write("Finding the zero-cost, accessible tools to make this excel right now.")
+
+    with row3_col1:
+        st.header("📣 **Echo (Community):**")
+        st.write("Ensuring this reaches the library kids and those in need of opportunity.")
+
+    with row3_col2:
+        st.header("🎯 **Prime (The Lead):**")
+        st.write("**Cross-Reading Status:** Evaluating all outputs...")
+        st.write("Final 'Perfection Flow' generated based on collective consensus.")
