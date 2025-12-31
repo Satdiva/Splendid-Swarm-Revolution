@@ -1,3 +1,5 @@
+# Licensed under the MIT License. See LICENSE file for details.
+
 # Built with pure intention. For the Splendids. For the makers.
 
 import streamlit as st
