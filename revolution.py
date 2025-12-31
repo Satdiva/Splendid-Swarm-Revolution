@@ -39,3 +39,4 @@ if st.button("Activate Swarm"):
     st.subheader("📋 The Unified Splendid Paper")
     st.text_area("Master Output (Copy this for Claude/Grok/DeepSeek):", full_report, height=300)
     st.download_button("Download Consensus Paper", full_report)
+
