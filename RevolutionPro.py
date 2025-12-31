@@ -1,4 +1,6 @@
-# Built with pure intention. For the Splendids. For the makers.
+
+# # Licensed under the MIT License. See LICENSE file for details.
+ with pure intention. For the Splendids. For the makers.
 
 import streamlit as st
 import time
